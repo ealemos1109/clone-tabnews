@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Quelo morde tua baliguinha. Se me ama dá uma risadinha.</h1>
-   
-}
+    return <h1>O Davi ama Labubu</h1>
+    <body>
+    
 export default Home;
